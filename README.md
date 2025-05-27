@@ -17,6 +17,10 @@ This Python script, `date_extractor.py`, is designed to extract and set dates fo
 * Python 3.x
 * `exiftool` command-line utility (install instructions provided in the script)
 
+```bash
+sudo apt-get install exiftool
+```
+
 ### Usage
 
 The script can be run from the command line, providing either a single file path or a directory path as an argument. Optionally, a manual date can be specified for setting.
